@@ -1,0 +1,3 @@
+package { "firefox":
+ensure => "present",
+}
